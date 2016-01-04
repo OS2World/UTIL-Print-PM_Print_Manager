@@ -1,0 +1,23 @@
+VX-REXX OS/2 V2.14 Build B3
+VRX: PRINTOOL.VRX
+VXOFile: VROBJEX
+MacroPath: VRM:E:\DEVELOPMENT\VXREXX\Projects\PrintTool
+EXEPath: E:\Development\VXREXX\Projects\PrintTool\PRINTMAN.EXE
+RunParameters: 
+RunDirectory: 
+VRXWindow: __VREMainWindow,1,506,4095,6697,8046
+VRXWindow: __VRESectionListWindow,1,614,16044,4204,4059
+VRXWindow: __VREToolsWindow,1,638,14309,5472,1659
+VRXWindow: __VREWindListWindow,1,4854,16044,3505,4059
+UserFile: 1
+UserWindow: WN_MAIN,1
+UserWindow: SW_WIZARD,1
+UserWindow: SW_PRINTERS,1
+UserWindow: SW_PRINTERPAKS,1
+UserWindow: SW_DEVICES,1
+UserWindow: SW_PORTS,1
+UserWindow: SW_ABOUT,1
+UserWindow: SW_PORT_ADD,1
+UserWindow: SW_MODELS,1
+UserWindow: SW_IMPORT,1
+UserWindow: SW_DEVICE_ADD,1
